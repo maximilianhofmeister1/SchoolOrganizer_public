@@ -29,6 +29,10 @@ Das Promo Video findest du [hier auf YouTube](https://youtu.be/eQhdym0c_BY)
 - API (PHP mit Slim Framework)
 - Datenbank (MySQL)
 - Informationswebseite (Bootstrap)
+<br>
+
+- +400h Arbeitszeit
+- 7 Monate Entwicklungszeit
 
 <br>
 
@@ -61,5 +65,11 @@ Passwort: `1234`
 ![IOSScreenshots](https://github.com/maximilianhofmeister1/SchoolOrganizer_public/assets/78014275/6114c8ac-86ff-44ce-b635-43381950122e)
 ![desktopDashboard](https://github.com/maximilianhofmeister1/SchoolOrganizer_public/assets/78014275/03621cb6-ec4b-466c-b703-1c1b180b3368)
 ![webseite](https://github.com/maximilianhofmeister1/SchoolOrganizer_public/assets/78014275/a264f3d8-c235-4388-adc6-eef61b6a14dd)
+
+<br>
+
+
+## Projekt Roadmap
+![Projekt Roadmap](https://github.com/maximilianhofmeister1/SchoolOrganizer_public/assets/78014275/03e302d5-e061-4c88-9d29-6f085eaebb42)
 
 
